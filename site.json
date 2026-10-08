@@ -1,0 +1,14 @@
+{
+  "title": "Angel 的學習筆記",
+  "tagline": "把學過的東西，寫成能回頭查的筆記。",
+  "base_url": "https://angel20260101.github.io",
+  "footer": "本站筆記為個人學習紀錄，內容僅代表個人理解。",
+  "series": [
+    {
+      "slug": "claude-academy",
+      "title": "Claude Academy 課程筆記",
+      "description": "Claude 官方課程共 26 門的學習紀錄，每篇包含重點整理、限制與痛點，有實作的課另附實作過程與成果。",
+      "categories": ["核心", "AI Fluency", "雲端選修"]
+    }
+  ]
+}
